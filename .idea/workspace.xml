@@ -2,9 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6f701940-63e2-44d7-b7bc-1e0fbdd2e997" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/profile-pic.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/profile-pic.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/portfolio/beetle.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/portfolio/liberty.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/portfolio/lighthouse.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/portfolio/modals/m-liberty.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/portfolio/modals/m-lighthouse.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/portfolio/modals/m-salad.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/portfolio/modals/m-shutterbug.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/portfolio/salad.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/portfolio/shutterbug.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -21,8 +27,11 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="148">
-              <caret line="340" column="32" selection-start-line="340" selection-start-column="32" selection-end-line="340" selection-end-column="32" />
+            <state relative-caret-position="849">
+              <caret line="670" column="77" selection-start-line="670" selection-start-column="77" selection-end-line="670" selection-end-column="77" />
+              <folding>
+                <element signature="n#div#1;n#div#0;n#div#1;n#div#3;n#section#2;n#body#0;n#html#0;n#!!top" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -35,7 +44,18 @@
       <find>logo.png</find>
       <find>prot</find>
       <find>fa-blah</find>
+      <find>Edu</find>
+      <find>Coursework</find>
+      <find>liberty</find>
+      <find>hamysun</find>
+      <find>liber</find>
+      <find>Ham</find>
+      <find>shuter</find>
       <find>light</find>
+      <find>beet</find>
+      <find>m-bee</find>
+      <find>Migarde</find>
+      <find>salad</find>
     </findStrings>
     <replaceStrings>
       <replace>fa-blah</replace>
@@ -88,6 +108,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="full.screen.before.presentation.mode" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -124,12 +145,12 @@
       <option name="presentableId" value="Default" />
       <updated>1559736971260</updated>
       <workItem from="1559736972882" duration="10149000" />
-      <workItem from="1559747955816" duration="3372000" />
+      <workItem from="1559747955816" duration="8911000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13521000" />
+    <option name="totallyTimeSpent" value="19060000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-2" y="0" width="2564" height="1051" extended-state="6" />
@@ -193,8 +214,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="148">
-          <caret line="340" column="32" selection-start-line="340" selection-start-column="32" selection-end-line="340" selection-end-column="32" />
+        <state relative-caret-position="849">
+          <caret line="670" column="77" selection-start-line="670" selection-start-column="77" selection-end-line="670" selection-end-column="77" />
+          <folding>
+            <element signature="n#div#1;n#div#0;n#div#1;n#div#3;n#section#2;n#body#0;n#html#0;n#!!top" />
+          </folding>
         </state>
       </provider>
     </entry>
