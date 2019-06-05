@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6f701940-63e2-44d7-b7bc-1e0fbdd2e997" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/portfolio/migarde_2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/portfolio/modals/m-migarde.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/portfolio/modals/m-migarde.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/portfolio/modals/m-migarde_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/portfolio/clouds.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/portfolio/modals/m-clouds.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -22,8 +20,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="669">
-              <caret line="614" column="41" lean-forward="true" selection-start-line="614" selection-start-column="41" selection-end-line="614" selection-end-column="41" />
+            <state relative-caret-position="639">
+              <caret line="525" column="66" selection-start-line="525" selection-start-column="66" selection-end-line="525" selection-end-column="66" />
               <folding>
                 <element signature="n#div#1;n#div#0;n#div#1;n#div#3;n#section#2;n#body#0;n#html#0;n#!!top" />
               </folding>
@@ -51,9 +49,14 @@
       <find>Migarde</find>
       <find>salad</find>
       <find>beet</find>
-      <find>dog</find>
       <find>migarde</find>
       <find>food</find>
+      <find>Clouds</find>
+      <find>clouds</find>
+      <find>cloud</find>
+      <find>dog</find>
+      <find>photo</find>
+      <find>Dog</find>
     </findStrings>
     <replaceStrings>
       <replace>fa-blah</replace>
@@ -143,12 +146,12 @@
       <option name="presentableId" value="Default" />
       <updated>1559736971260</updated>
       <workItem from="1559736972882" duration="10149000" />
-      <workItem from="1559747955816" duration="10970000" />
+      <workItem from="1559747955816" duration="12680000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21119000" />
+    <option name="totallyTimeSpent" value="22829000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-2" y="0" width="2564" height="1051" extended-state="6" />
@@ -212,8 +215,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="669">
-          <caret line="614" column="41" lean-forward="true" selection-start-line="614" selection-start-column="41" selection-end-line="614" selection-end-column="41" />
+        <state relative-caret-position="639">
+          <caret line="525" column="66" selection-start-line="525" selection-start-column="66" selection-end-line="525" selection-end-column="66" />
           <folding>
             <element signature="n#div#1;n#div#0;n#div#1;n#div#3;n#section#2;n#body#0;n#html#0;n#!!top" />
           </folding>
