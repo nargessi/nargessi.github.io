@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6f701940-63e2-44d7-b7bc-1e0fbdd2e997" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/images/portfolio/clouds.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/portfolio/modals/m-clouds.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/portfolio/girl.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/portfolio/modals/m-girl.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -16,15 +17,24 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="639">
-              <caret line="525" column="66" selection-start-line="525" selection-start-column="66" selection-end-line="525" selection-end-column="66" />
+            <state relative-caret-position="219">
+              <caret line="668" column="29" lean-forward="true" selection-start-line="668" selection-start-column="29" selection-end-line="668" selection-end-column="29" />
               <folding>
                 <element signature="n#div#1;n#div#0;n#div#1;n#div#3;n#section#2;n#body#0;n#html#0;n#!!top" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/main.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="37728">
+              <caret line="2096" column="9" selection-start-line="2096" selection-start-column="1" selection-end-line="2096" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -33,12 +43,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>intro-content</find>
-      <find>logo.png</find>
-      <find>prot</find>
-      <find>fa-blah</find>
-      <find>Edu</find>
-      <find>Coursework</find>
       <find>liberty</find>
       <find>hamysun</find>
       <find>liber</find>
@@ -57,10 +61,28 @@
       <find>dog</find>
       <find>photo</find>
       <find>Dog</find>
+      <find>bg.jpg</find>
+      <find>Hamis</find>
+      <find>Sticker Pack</find>
+      <find>Dog Sticker Pack</find>
+      <find>doggo</find>
+      <find>behance</find>
+      <find>&gt;&lt;i class=&quot;fa</find>
+      <find>&lt;a href=&quot;(.*)&quot;&gt;</find>
+      <find>beha</find>
+      <find>Awards</find>
+      <find>Girl</find>
+      <find>Illustrations</find>
     </findStrings>
     <replaceStrings>
       <replace>fa-blah</replace>
       <replace>fa-briefcase</replace>
+      <replace>Mr. Doggo</replace>
+      <replace>go</replace>
+      <replace>&lt;a href=&quot;.*&quot; target=&quot;_blank&quot;&gt;</replace>
+      <replace>&lt;a href=&quot;$0&quot; target=&quot;_blank&quot;&gt;</replace>
+      <replace>&lt;a href=&quot;$1&quot; target=&quot;_blank&quot;&gt;</replace>
+      <replace>&lt;a href=&quot;$1&quot;&gt;</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -86,27 +108,14 @@
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-2" />
-    <option name="width" value="2564" />
-    <option name="height" value="1051" />
+    <option name="width" value="1370" />
+    <option name="height" value="739" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="nargessi.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="nargessi.github.io" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
-    </panes>
+    <panes />
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -135,6 +144,16 @@
       </list>
     </option>
   </component>
+  <component name="RunManager">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/nargessi.github.io/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -146,24 +165,25 @@
       <option name="presentableId" value="Default" />
       <updated>1559736971260</updated>
       <workItem from="1559736972882" duration="10149000" />
-      <workItem from="1559747955816" duration="12680000" />
+      <workItem from="1559747955816" duration="13692000" />
+      <workItem from="1559824194559" duration="4693000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22829000" />
+    <option name="totallyTimeSpent" value="28534000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-2" y="0" width="2564" height="1051" extended-state="6" />
+    <frame x="-2" y="0" width="1370" height="739" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.11203156" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32932165" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32890365" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.6063123" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -199,13 +219,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/css/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2422">
-          <caret line="1329" column="33" selection-start-line="1329" selection-start-column="33" selection-end-line="1329" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/font-awesome/css/font-awesome.min.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
@@ -215,11 +228,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="639">
-          <caret line="525" column="66" selection-start-line="525" selection-start-column="66" selection-end-line="525" selection-end-column="66" />
+        <state relative-caret-position="219">
+          <caret line="668" column="29" lean-forward="true" selection-start-line="668" selection-start-column="29" selection-end-line="668" selection-end-column="29" />
           <folding>
             <element signature="n#div#1;n#div#0;n#div#1;n#div#3;n#section#2;n#body#0;n#html#0;n#!!top" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="37728">
+          <caret line="2096" column="9" selection-start-line="2096" selection-start-column="1" selection-end-line="2096" selection-end-column="9" />
         </state>
       </provider>
     </entry>
