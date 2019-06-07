@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6f701940-63e2-44d7-b7bc-1e0fbdd2e997" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/portfolio/modals/m-illustrations.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/portfolio/modals/m-illustrations.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/sample-image.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles.html" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -19,8 +22,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="961" column="29" selection-start-line="961" selection-start-column="29" selection-end-line="961" selection-end-column="29" />
+            <state relative-caret-position="215">
+              <caret line="995" column="32" selection-start-line="995" selection-start-column="32" selection-end-line="995" selection-end-column="32" />
               <folding>
                 <element signature="n#div#1;n#div#0;n#div#1;n#div#3;n#section#2;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#div#2;n#div#0;n#div#0;n#div#1;n#section#3;n#body#0;n#html#0;n#!!top" />
@@ -32,7 +35,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/base.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="299">
+            <state relative-caret-position="272">
               <caret line="543" column="5" selection-start-line="543" selection-start-column="5" selection-end-line="543" selection-end-column="5" />
             </state>
           </provider>
@@ -46,8 +49,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="591">
-              <caret line="2430" column="18" selection-start-line="2430" selection-start-column="18" selection-end-line="2430" selection-end-column="18" />
+            <state relative-caret-position="294">
+              <caret line="2527" column="1" lean-forward="true" selection-start-line="2527" selection-start-column="1" selection-end-line="2527" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -56,10 +59,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>Hamis</find>
-      <find>Sticker Pack</find>
-      <find>Dog Sticker Pack</find>
-      <find>doggo</find>
       <find>behance</find>
       <find>&gt;&lt;i class=&quot;fa</find>
       <find>&lt;a href=&quot;(.*)&quot;&gt;</find>
@@ -86,6 +85,10 @@
       <find>fa</find>
       <find>70</find>
       <find>me@</find>
+      <find>awesome</find>
+      <find>&lt;a</find>
+      <find>sample-image.jpg</find>
+      <find>copyright</find>
     </findStrings>
     <replaceStrings>
       <replace>fa-blah</replace>
@@ -136,11 +139,6 @@
             <path>
               <item name="nargessi.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="nargessi.github.io" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="nargessi.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="nargessi.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -217,22 +215,36 @@
       <option name="project" value="LOCAL" />
       <updated>1559912298163</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Tweak contact info a little bit">
+      <created>1559912784889</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1559912784889</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Tweak contact info a little bit">
+      <created>1559912791230</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1559912791230</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="45455000" />
+    <option name="totallyTimeSpent" value="49256000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-2" y="0" width="2564" height="1051" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.11194324" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.11194324" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32890365" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32864866" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.6063123" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -271,8 +283,10 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <MESSAGE value="Complete all parts" />
-    <option name="LAST_COMMIT_MESSAGE" value="Complete all parts" />
+    <MESSAGE value="Tweak contact info a little bit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Tweak contact info a little bit" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/css/font-awesome/css/font-awesome.min.css">
@@ -289,10 +303,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/styles.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="140" column="108" selection-start-line="140" selection-start-column="108" selection-end-line="140" selection-end-column="108" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="591">
-          <caret line="2430" column="18" selection-start-line="2430" selection-start-column="18" selection-end-line="2430" selection-end-column="18" />
+        <state relative-caret-position="294">
+          <caret line="2527" column="1" lean-forward="true" selection-start-line="2527" selection-start-column="1" selection-end-line="2527" selection-end-column="1" />
         </state>
       </provider>
     </entry>
@@ -301,15 +322,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/base.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
+        <state relative-caret-position="272">
           <caret line="543" column="5" selection-start-line="543" selection-start-column="5" selection-end-line="543" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="961" column="29" selection-start-line="961" selection-start-column="29" selection-end-line="961" selection-end-column="29" />
+        <state relative-caret-position="215">
+          <caret line="995" column="32" selection-start-line="995" selection-start-column="32" selection-end-line="995" selection-end-column="32" />
           <folding>
             <element signature="n#div#1;n#div#0;n#div#1;n#div#3;n#section#2;n#body#0;n#html#0;n#!!top" />
             <element signature="n#div#2;n#div#0;n#div#0;n#div#1;n#section#3;n#body#0;n#html#0;n#!!top" />
